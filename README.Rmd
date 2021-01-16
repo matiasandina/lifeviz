@@ -51,4 +51,4 @@ Hosting this app online is not for free. If you like what I do, consider sponsor
 
 ### License
 
-This was created by [Matias Andina](https://twitter.com/NeuroMLA). See [LICENSE.md]
+This was created by [Matias Andina](https://twitter.com/NeuroMLA). See [LICENSE.md](https://github.com/matiasandina/lifeviz/blob/main/LICENSE.md).

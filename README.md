@@ -66,4 +66,4 @@ sponsoring my work.
 ### License
 
 This was created by [Matias Andina](https://twitter.com/NeuroMLA). See
-\[LICENSE.md\]
+[LICENSE.md](https://github.com/matiasandina/lifeviz/blob/main/LICENSE.md).

@@ -11,3 +11,5 @@ Description: The goal of lifeviz is to visualize life events. This has been insp
 License: CCBY-4.0
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/matiasandina/lifeviz
+BugReports: https://github.com/matiasandina/lifeviz/issues

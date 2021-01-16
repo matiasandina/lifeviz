@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of [lifeviz](matias-andina.shinyapps.io/lifeviz) is to
+The goal of [lifeviz](https://matias-andina.shinyapps.io/lifeviz) is to
 visualize life events. This has been inspired by the post [‘The Tail
 End’ by WaitButWhy](https://waitbutwhy.com/2015/12/the-tail-end.html).
 I have taken the visualizations and added a few degrees of freedom, so
@@ -20,7 +20,7 @@ time on Earth. Actually visualizing the number of remaining
 days/burgers/hugs, can be a powerful tool to do so.
 
 Check out the online version of the app
-[here](matias-andina.shinyapps.io/lifeviz)\!
+[here](https://matias-andina.shinyapps.io/lifeviz)\!
 
 ### Usage
 
@@ -38,7 +38,7 @@ The example below shows how to use the basic functions.
 ![](example.gif)
 
 Check out the online version of the app
-[here](matias-andina.shinyapps.io/lifeviz)\!
+[here](https://matias-andina.shinyapps.io/lifeviz)\!
 
 ### User data
 

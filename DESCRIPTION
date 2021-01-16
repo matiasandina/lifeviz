@@ -1,0 +1,13 @@
+Package: lifeviz
+Title: A Shiny App to visualize life events
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Matias",
+           family = "Andina",
+           role = c("aut", "cre"),
+           email = "matiasandina@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The goal of lifeviz is to visualize life events. This has been inspired by the post The Tail End by WaitButWhy. I have taken the visualizations and added a few degrees of freedom, so that the users can visualize past/present, as well as any activity they could represent using emojis.
+License: CCBY-4.0
+Encoding: UTF-8
+LazyData: true
